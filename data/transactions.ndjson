@@ -1,0 +1,4 @@
+{"transaction_id": "t_901", "merchant": "fast-cabs", "amount": 44, "risk_score": 0.11}
+{"transaction_id": "t_902", "merchant": "lux-travel", "amount": 910, "risk_score": 0.83}
+{"transaction_id": "t_903", "merchant": "city-market", "amount": 128, "risk_score": 0.34}
+{"transaction_id": "t_904", "merchant": "gift-cards", "amount": 520, "risk_score": 0.91}
